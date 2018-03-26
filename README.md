@@ -1,12 +1,15 @@
-ASTR 427: Numerical Methods of Astrophysics
+# ASTR 427: Numerical Methods of Astrophysics
 
 Tom Quinn, Office PAB 380, email: trq@astro.washington.edu
 
-Website:
+### Website:
+'''
 https://faculty.washington.edu/trq/astr427/index.html
+'''
 
-Reference material:
+### Reference material:
+'''
 http://developer.nvidia.com/category/zone/cuda-zone
-
+'''
 
 
