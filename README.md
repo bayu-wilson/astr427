@@ -8,15 +8,14 @@ trq@astro.washington.edu
 
 ### Website:
 
-'''
+```
 https://faculty.washington.edu/trq/astr427/index.html
-'''
+```
 
 ### Reference material:
-'''
 
+```
 http://developer.nvidia.com/category/zone/cuda-zone
-
-'''
+```
 
 
