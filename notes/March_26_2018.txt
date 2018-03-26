@@ -1,3 +1,5 @@
+FIRST CLASS
+
 This course provides a toolkit that solves problems in astrophysics.
 
 1) Computer architecture
@@ -26,6 +28,19 @@ CPU		CPU
 
 TAKEAWAY
 When we think about performance, what we care about is how to organize memory.
+
+
+SQL:
+SQL is what is called a declarative language. Hard part isn't necessarily calculation but data acquisition. SQL has things organized so that we don't gotta look at each index rather there is a complex algorithm that does it for us. It picks subsets that make it faster so it doesn't have to test each entry. Great things about databases and SQL. 
+
+By doing same thing in Python, there's actually a lot of unneeded stuff. There is a lot of interpretive overhead. 
+
+Abstraction is the process of taking away or removing characteristics from something in order to reduce it to a set of essential characteristics.
+
+
+
+SIDE NOTES:
+Side note is that CMD+control+f is normal screen to full screen and vice versa
 
 
 
