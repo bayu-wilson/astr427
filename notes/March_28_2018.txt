@@ -1,0 +1,19 @@
+Second lecture notes
+
+Logistics:
+No class on APRIL 11.
+
+Smart words:
+Memory Matters. It is expensive and something we should care about. Floating point operators are cheap I think. 
+
+Outline today:
+Design, function, object oriented, comment code, arithmetic
+
+DNRY: DO NOT REPEAT YOURSELF
+
+It's very easy to do this. But it is easy to make a mistake! If you redo it, it will be all around better.
+
+Optimizing memory access is a big deal.
+
+Don't tell me what you do, tell me what you are. Second statement is a much better explanation of what's going on.
+ 
