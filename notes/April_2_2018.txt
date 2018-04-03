@@ -1,0 +1,24 @@
+Documenting Code
+
+Example of a USELESS comment:
+-----------------------------------
+i -= 1 # increment i
+
+Example of a USEFUL comment:
+-----------------------------------
+i -= 1 # index increments through quasars in XQ-100 
+
+Read this paper:
+-----------------------------------
+Wilson et al 2016, "Good enough Practice in Sc. Comp."
+
+Floating Point Numbers:
+-----------------------------------
+In computing, floating-point arithmetic is arithmetic using formulaic representation of real numbers as an approximation so as to support a trade-off between range and precision.
+
+
+Rule is to add to even
+
+Nan's & inf's can SLOW down code.
+
+
